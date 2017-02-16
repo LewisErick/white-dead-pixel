@@ -1,2 +1,2 @@
-# white-dead-pixel
-White Dead Pixel 2017
+# White Dead Pixel (2017)
+by Lewis
